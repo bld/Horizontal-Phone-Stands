@@ -7,6 +7,8 @@ width. I designed and printed these on Christmas morning so we could
 place a Nexus S phone on a bookshelf, tilting down, to video
 conference with family.
 
+The license is [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
+
 Instructions
 ------------
 
